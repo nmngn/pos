@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - DynamicBlurView (4.1.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - ObjectMapper (3.5.3)
+  - PanModal (1.2.7)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SVProgressHUD (2.2.5)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2.1)
+  - IQKeyboardManagerSwift
+  - ObjectMapper (~> 3.5)
+  - PanModal
+  - PopupDialog
+  - SDWebImage
+  - SVProgressHUD
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - DynamicBlurView
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - PanModal
+    - PopupDialog
+    - SDWebImage
+    - SVProgressHUD
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: b1d3d3b39f185dc71b47232c554ce5d6c853af18
+
+COCOAPODS: 1.10.1
